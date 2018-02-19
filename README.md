@@ -4,6 +4,6 @@ It includes the details of  all the blogs written by me for Digital Vidhya  on d
 
 Beginners
 
-(1)An introduction to data visulaizatin in Python - http://www.digitalvidya.com/blog/introduction-data-visualization-in-python/
+(1)An introduction to data visualization in Python - http://www.digitalvidya.com/blog/introduction-data-visualization-in-python/
 
 (2)An Introduction To Text Analysis In Python - http://www.digitalvidya.com/blog/an-introduction-to-text-analysis-in-python/
